@@ -1,0 +1,27 @@
+{
+  "name": "bbst",
+  "version": "1.0.0",
+  "description": "Project provided by The Odin Project. Create a balanced binary search tree in Javascript.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "watch webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saltsphinx/BBST-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saltsphinx/BBST-js/issues"
+  },
+  "homepage": "https://github.com/saltsphinx/BBST-js#readme",
+  "devDependencies": {
+    "webpack": "^5.79.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
